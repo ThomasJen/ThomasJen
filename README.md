@@ -1,5 +1,5 @@
 ## Hei, jeg heter Thomas 👋
-IT-student ved Høyskolen på Vestlandet
+IT-student ved Høgskulen på Vestlandet
 
 🔧 Ferdigheter: React, Figma, PgAdmin
 
