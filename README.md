@@ -21,6 +21,7 @@ Norsk, Engelsk
 - 📧 E-post: [Send meg en Epost](mailto:thakje8@gmail.com)
 - 💼 LinkedIn: [Min LinkedIn profil](https://www.linkedin.com/in/thomas-jensen-bb173a314/)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasJen&layout=compact)
 
 
 <!--
