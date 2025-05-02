@@ -21,7 +21,7 @@ Norsk, Engelsk
 - 📧 E-post: [Send meg en Epost](mailto:thakje8@gmail.com)
 - 💼 LinkedIn: [Min LinkedIn profil](https://www.linkedin.com/in/thomas-jensen-bb173a314/)
 
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasJen&show_icons=true&theme=default)
+
 
 <!--
 **ThomasJen/ThomasJen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
